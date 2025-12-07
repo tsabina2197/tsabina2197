@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>👋 Salom, men <a href="https://github.com/tsabina2197">Sabina</a></h1>
+  <h1>👋 Hi, I'm <a href="https://github.com/tsabina2197">Sabina</a></h1>
   <p><em>Backend Developer</em></p>
 </div>
 
 ---
 
-## 💻 Texnologiyalar
+## 💻 Technologies
 
 ### Backend & Fullstack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-## 📬 Aloqa
+## 📬 Contact
 
 <div align="center">
   <a href="https://t.me/tsabina2197"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
